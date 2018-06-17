@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">aap2</string>
+    <string name="zomato_api"><![CDATA[<resources>     <string name=\"app_name\">PullingJsonResponseIntoRecyclerViewTutorial</string>     <string name=\"zomato_api\"><![CDATA[https://developers.zomato.com/api/v2.1/search?lat=28.7041&lon=77.1025&count=10]]></string>  </resources>]]></string>
+</resources>
